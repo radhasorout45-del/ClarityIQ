@@ -2,6 +2,11 @@
 
 ClarityIQ is a Python-based web application that helps users upload, explore, clean, and analyze datasets through a simple and interactive interface.
 
+## 🌐 Live Demo
+
+Try ClarityIQ here:
+https://clarityiqgit-8vzofp5xxtsbpzrqjzrbqw.streamlit.app/
+
 ## 🚀 Features
 
 * Upload CSV, Excel, JSON, and TSV files.
@@ -26,7 +31,6 @@ ClarityIQ is a Python-based web application that helps users upload, explore, cl
 
 ```text
 ClarityIQ/
-│
 ├── app.py
 ├── requirements.txt
 └── README.md
@@ -37,7 +41,7 @@ ClarityIQ/
 1. Clone this repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/radhasorout45-del/ClarityIQ.git
 ```
 
 2. Open the project folder.
@@ -60,7 +64,7 @@ The goal of ClarityIQ is to make basic data cleaning and exploratory data analys
 
 ## 👩‍💻 Developed By
 
-Kashish
+**Kashish**
+BCA – Artificial Intelligence & Machine Learning
 
-BCA (Artificial Intelligence & Machine Learning)
-Smart Data Cleaning &amp; Analysis Tool using Python, Pandas and Streamlit
+
